@@ -14,4 +14,5 @@ menu:
       url: "get-involved/"
 
 params:
-  description: "Website for the promotion of the Arcata Food Not Bombs group."
+  description: "Website fof the Arcata Food Not Bombs group."
+  footer: "arcatafoodnotbombs.org -- [Github repo](https://github.com/samuelmcpherson/arcatafoodnotbombs.org) -- Contact the site [admin](mailto:contact@samuelmcpherson.net)"
