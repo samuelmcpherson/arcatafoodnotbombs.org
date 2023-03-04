@@ -1,4 +1,5 @@
 # About Food Not Bombs
+
 Food Not Bombs is an all-volunteer movement that recovers food that would otherwise be discarded, and shares free vegan and vegetarian meals with the hungry in over 1,000 cities in 65 countries in protest to war, poverty, and destruction of the environment. 
 
 We arrange the collection of produce, bread and other food that can't be sold from grocery stores, bakeries, and produce markets. They put this food to the side and we pick it up at a scheduled time. This way, we build personal relationships with local food providers and are able to collect larger amounts of better quality food with more regularity.
