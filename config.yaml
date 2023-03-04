@@ -10,6 +10,8 @@ menu:
     - name: Home
       url: ""
       weight: 1
+    - name: About
+      url: "about/"
     - name: Get Involved
       url: "get-involved/"
 
