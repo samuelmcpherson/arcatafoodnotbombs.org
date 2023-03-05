@@ -12,8 +12,10 @@ menu:
       weight: 1
     - name: About
       url: "about/"
+      weight: 2
     - name: Get Involved
       url: "get-involved/"
+      weight: 3
 
 params:
   description: "Website fof the Arcata Food Not Bombs group."
