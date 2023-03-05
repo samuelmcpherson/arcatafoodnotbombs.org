@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Arcata Food Not Bombs</title>
+    <link>/</link>
+    <description>Recent content in Home on Arcata Food Not Bombs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Food Not Bombs Food Not Bombs is an all-volunteer movement that recovers food that would otherwise be discarded, and shares free vegan and vegetarian meals with the hungry in over 1,000 cities in 65 countries in protest to war, poverty, and destruction of the environment.
+We arrange the collection of produce, bread and other food that can&amp;rsquo;t be sold from grocery stores, bakeries, and produce markets. They put this food to the side and we pick it up at a scheduled time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/get-involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/get-involved/</guid>
+      <description>Food Not Bombs Arcata is looking for volunteers, advocates and allies. We glean produce from the co-op and give out free vegan meals every Sunday on the Arcata Plaza at 4PM.
+Anyone can stop by to help serve food with us and this is a great way to meet the group and start helping.
+You can also get in touch by filling out the following google form here
+Or by reaching out to 707 - 335 - 9802</description>
+    </item>
+    
+  </channel>
+</rss>
