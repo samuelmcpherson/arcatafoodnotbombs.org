@@ -16,6 +16,12 @@ menu:
     - name: Get Involved
       url: "get-involved/"
       weight: 3
+    - name: Events and Announcements
+      url: "events-announcements/"
+      weight: 4
+    - name: Donate!
+      url: "donate"
+      weight: 5
 
 params:
   description: "Website fof the Arcata Food Not Bombs group."
