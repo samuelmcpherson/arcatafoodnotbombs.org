@@ -2,10 +2,6 @@ Food Not Bombs Arcata is looking for volunteers, advocates and allies. We glean 
 
 Anyone can stop by to help serve food with us and this is a great way to meet the group and start helping.
 
-You can also get in touch by filling out the following google form [here](https://docs.google.com/forms/d/e/1FAIpQLScwlUxvl8ORv_8l9fJncTb1AJz2bpqc1nWV4Li1mMyfd8e33w/viewform) 
-
-Or by reaching out to **707 - 335 - 9802**
-
 We are always looking for volunteers to join us 
 for any role during our Sunday schedule:
 
