@@ -1,5 +1,5 @@
 # Announcements: 
-We are once again cooking out of the Spoon house, which has proven to be an awesome space for Food Not Bombs. We would like to thank everyone there for sharing their kitchen with us as well as everyone who offered kitchen space to us and brought locations wo our attention while we were looking.
+We are once again cooking out of the Spoon house, which has proven to be an awesome space for Food Not Bombs. We would like to thank everyone there for sharing their kitchen with us as well as everyone who offered us kitchen space and brought locations to our attention while we were looking.
 
 We now have a shared email and google voice number that people can use to contact the group, see the new [Contact Us](https://arcatafoodnotbombs.org/contact) page on this site.
 
