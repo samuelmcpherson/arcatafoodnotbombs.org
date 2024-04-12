@@ -1,7 +1,7 @@
 baseurl: ""
 relativeURLs: "True"
 languageCode: "en-us"
-title: 'Arcata Food Not Bombs'
+title: 'Food Not Bombs in Arcata'
 theme: "hugo-minimal"
 footnotereturnlinkcontents: "↩"
 
@@ -28,4 +28,4 @@ menu:
 
 params:
   description: "Website fof the Arcata Food Not Bombs group."
-  footer: "arcatafoodnotbombs.org -- 2023"
+  footer: "foodnotbombsarcata.org -- 2024"

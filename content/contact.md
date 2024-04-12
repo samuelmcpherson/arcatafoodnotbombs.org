@@ -2,7 +2,7 @@ You can get in touch with any of our active memebers through the following metho
 
 ## Email:
 
-**[contact@arcatafoodnotbombs.org](mailto:contact@arcatafoodnotbombs.org)**
+**[contact@foodnotbombsarcata.org](mailto:contact@foodnotbombsarcata.org)**
 
 ## Phone (text messages preferred):
 
